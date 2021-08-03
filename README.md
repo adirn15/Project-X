@@ -1,4 +1,4 @@
-# Super-Tic-Tac-Toe-Game
+# Project X
 the game was built using python and PyQt5 framework in order to play around with the framework and get to know it. 
 
 the goal in the game is to win 3 mini games in a row, column or diagonal.
